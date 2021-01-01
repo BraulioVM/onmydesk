@@ -2,13 +2,10 @@
 title: A digital assistant for your affiliate links.
 subtitle: You list the products you use, we find the best links to your
   audience's favourite stores.
-image: img/photo-1534379715855-0ec062ad3e08.webp
+image: img/photo-1527953594273-291a5d4f7d39.webp
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: What do we do?
+  text: Keeping your affiliate links straight is hard.
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -16,7 +13,7 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: img/products-full-width.jpg
     text: We sell green and roasted coffee beans that are sourced directly from
       independent farmers and farm cooperatives. We’re proud to offer a variety
       of coffee beans grown with great care for the environment and local
