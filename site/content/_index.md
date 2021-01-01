@@ -1,14 +1,16 @@
 ---
-title: A digital assistant for your affiliate links.
-subtitle: You list the products you use, we find the best links to your
+title: "A digital assistant for your affiliate links. "
+subtitle: You tell us the products you use, we find the best links to your
   audience's favourite stores.
 image: img/photo-1527953594273-291a5d4f7d39.webp
 blurb:
-  heading: What do we do?
-  text: Managing affiliate links is hard. Even more so if you want to point your
-    audience to their favorite store. Some of your subscribers love Amazon, some
-    love Thomann and some others love Reverb. Say goodbye to painstakingly
-    accumulating links for all the stores.
+  heading: Affiliate links made easy
+  text: Managing affiliate links can be hard. Even more so if you want to make
+    them work for your whole audience. Some of your Australian subscribers want
+    to shop on Amazon.au, some of your German subscribers want to shop on
+    Thomann.de, and some of your American subscribers want to shop on Reverb.
+    Just tell us what products you are promoting and your affiliate tags for the
+    stores you care about and we will do the rest.
 intro:
   heading: What we offer
   text: We ask you about the gear you use. An OP-1? Noted. A Nikon Z 50? Cool.
