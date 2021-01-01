@@ -5,13 +5,16 @@ subtitle: You list the products you use, we find the best links to your
 image: img/photo-1527953594273-291a5d4f7d39.webp
 blurb:
   heading: What do we do?
-  text: Keeping your affiliate links straight is hard.
+  text: Managing affiliate links is hard. Even more so if you want to point your
+    audience to their favorite store. Some of your subscribers love Amazon, some
+    love Thomann and some others love Reverb. Say goodbye to painstakingly
+    accumulating links for all the stores.
 intro:
   heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  text: We ask you about the gear you use. An OP-1? Noted. A Nikon Z 50? Cool.
+    Next, we you tell us your affiliate tags for Amazon, Thomann and all the
+    stores that you want to support. Finally, we work 24/7 to ensure that your
+    audience finds their way to their favorite store when clicking on the links.
 products:
   - image: img/products-full-width.jpg
     text: We sell green and roasted coffee beans that are sourced directly from
