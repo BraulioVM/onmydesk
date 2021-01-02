@@ -4,7 +4,8 @@ subtitle: You tell us the products you use, we find the best links to your
   audience's favourite stores.
 image: img/photo-1527953594273-291a5d4f7d39.webp
 blurb:
-  heading: Affiliate links made easy
+  bgcolor: grey-1
+  heading: Affiliate links are hard
   text: Managing affiliate links can be hard. Even more so if you want to make
     them work for your whole audience. Some of your Australian subscribers want
     to shop on Amazon.au, some of your German subscribers want to shop on
@@ -12,6 +13,7 @@ blurb:
     Just tell us what products you are promoting and your affiliate tags for the
     stores you care about and we will do the rest.
 intro:
+  bgcolor: white
   heading: What we offer
   text: We ask you about the gear you use. An OP-1? Noted. A Nikon Z 50? Cool.
     Next, we you tell us your affiliate tags for Amazon, Thomann and all the
